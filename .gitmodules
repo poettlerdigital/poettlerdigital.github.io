@@ -1,0 +1,3 @@
+[submodule "pute-digital"]
+	path = pute-digital
+	url = https://github.com/huberd/pute-digital
